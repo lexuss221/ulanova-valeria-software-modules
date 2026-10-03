@@ -1,0 +1,15 @@
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\bin\Debug\net10.0\лаба12-13.exe
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\bin\Debug\net10.0\лаба12-13.deps.json
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\bin\Debug\net10.0\лаба12-13.runtimeconfig.json
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\bin\Debug\net10.0\лаба12-13.dll
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\bin\Debug\net10.0\лаба12-13.pdb
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\лаба12-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\лаба12-13.AssemblyInfoInputs.cache
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\лаба12-13.AssemblyInfo.cs
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\лаба12-13.csproj.CoreCompileInputs.cache
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\лаба12-13.dll
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\refint\лаба12-13.dll
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\лаба12-13.pdb
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\лаба12-13.genruntimeconfig.cache
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\ref\лаба12-13.dll
+C:\Users\Лера\source\repos\лаба12-13\лаба12-13\obj\Debug\net10.0\лаба12-13.csproj.Up2Date
